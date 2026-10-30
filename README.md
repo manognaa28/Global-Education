@@ -92,4 +92,4 @@ Point it to `global_education_data.csv`.
 Power BI Desktop, Power Query, data modelling, data visualization, Excel
 
 ## Author
-Your Name | [LinkedIn](https://www.linkedin.com/) | your.email@example.com
+Manogna Addanki
